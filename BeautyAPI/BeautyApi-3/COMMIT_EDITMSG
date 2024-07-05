@@ -1,0 +1,50 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   .gradle/8.8/checksums/checksums.lock
+#	new file:   .gradle/8.8/checksums/sha1-checksums.bin
+#	new file:   .gradle/8.8/dependencies-accessors/gc.properties
+#	new file:   .gradle/8.8/executionHistory/executionHistory.bin
+#	new file:   .gradle/8.8/executionHistory/executionHistory.lock
+#	new file:   .gradle/8.8/fileChanges/last-build.bin
+#	new file:   .gradle/8.8/fileHashes/fileHashes.bin
+#	new file:   .gradle/8.8/fileHashes/fileHashes.lock
+#	new file:   .gradle/8.8/fileHashes/resourceHashesCache.bin
+#	new file:   .gradle/8.8/gc.properties
+#	new file:   .gradle/buildOutputCleanup/buildOutputCleanup.lock
+#	new file:   .gradle/buildOutputCleanup/cache.properties
+#	new file:   .gradle/buildOutputCleanup/outputFiles.bin
+#	new file:   .gradle/file-system.probe
+#	new file:   .gradle/vcs-1/gc.properties
+#	new file:   .idea/.gitignore
+#	new file:   .idea/encodings.xml
+#	new file:   .idea/gradle.xml
+#	new file:   .idea/misc.xml
+#	new file:   HELP.md
+#	new file:   build.gradle
+#	new file:   gradle/wrapper/gradle-wrapper.jar
+#	new file:   gradle/wrapper/gradle-wrapper.properties
+#	new file:   gradlew
+#	new file:   gradlew.bat
+#	new file:   pom.xml
+#	new file:   settings.gradle
+#	new file:   src/main/java/com/dio/BeautyAPI/BeautyApiApplication.java
+#	new file:   src/main/java/com/dio/BeautyAPI/ImcController.java
+#	new file:   src/main/java/com/dio/BeautyAPI/ImcRequest.java
+#	new file:   src/main/java/com/dio/BeautyAPI/ImcResponse.java
+#	new file:   src/main/java/org/example/Main.java
+#	new file:   src/main/resources/application.properties
+#	new file:   src/test/java/com/dio/BeautyAPI/BeautyApiApplicationTests.java
+#	new file:   src/test/java/com/dio/BeautyAPI/ImcRequest.java
+#	new file:   src/test/java/com/dio/BeautyAPI/ImcResponse.java
+#	new file:   src/test/java/com/dio/BeautyAPI/TmbController.java
+#	new file:   src/test/java/com/dio/BeautyAPI/TmbRequest.java
+#	new file:   src/test/java/com/dio/BeautyAPI/TmbResponse.java
+#
